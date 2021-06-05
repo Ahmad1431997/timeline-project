@@ -10,7 +10,7 @@ function Footer() {
             <img
               className="img-responsive image-style"
               src="firstTalkingPic.jpg"
-              alt=""
+              alt="invention"
             />
           </div>
           <div className="timeline-panel">

@@ -14,7 +14,7 @@ const newArray = data.map((element) => (
           <img
             className="img-responsive image-style"
             src={element.imag1}
-            alt=""
+            alt="invention"
           />
         </div>
         <div className="timeline-panel">
@@ -34,7 +34,7 @@ const newArray = data.map((element) => (
           <img
             className="img-responsive image-style"
             src={element.imag2}
-            alt=""
+            alt="invention"
           />
         </div>
         <div className="timeline-panel">
